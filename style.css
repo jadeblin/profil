@@ -1,0 +1,85 @@
+h1 {
+             color: #FF8DC7;
+             letter-spacing: 3px;
+font-family: 'DM Serif Display', serif;
+text-align: center;
+text-shadow: 2px 2px 1px lightgrey;
+}
+ 
+p, a { font-family: 'Josefin Sans', sans-serif;
+             text-align: center;
+    }
+ 
+a { text-decoration: none;
+ 
+ 
+}
+ 
+a:hover {
+ 
+color:  lightpink;
+}
+ 
+body {
+             background-image: url("image/fond.jpg");
+             background-size: cover;
+ }
+img {
+             width: 10px;
+             border-radius: 20%;
+}
+ 
+li {
+             list-style: none;
+font-size: 32px;
+display:  inline;
+}
+ 
+ul {
+padding: 0px }
+ 
+ 
+ 
+img {width: 100px;
+ 
+}
+#jade {
+    width:  250px;
+    border-radius: 50%;
+}
+ 
+ 
+/*classes*/
+ 
+ 
+.btn-blue {
+             background-color: lightpink;
+             border: 1px solid lightpink;
+             color:  white;
+             padding: 10px 10px;
+             margin: 10px;
+             border-radius: 10px;
+}
+ 
+ 
+.btn-blue: hover {
+             background-color: white;
+             color: lightpink;
+             transition:  0.5s;
+}
+ 
+.card-white {
+            
+background-color: #EAEAEA;
+border-radius: 6px;
+box-shadow: 10px 10px 5px rgba(30,30,30,0.3);
+margin: 30px;
+padding:  16px;
+ 
+text-align:  center;
+}
+ 
+.container {
+             width:  700px;
+             margin:  0 auto;
+}
